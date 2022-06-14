@@ -72,7 +72,7 @@ main div.image
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 50%;
+  min-width: 60%;
 }
 main div.image img
 {
