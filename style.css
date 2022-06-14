@@ -94,10 +94,11 @@ div.details h2
 
 div.details p
 {
-  font-size: 15px;
+  font-size: 17px;
   color: var(--White);
   line-height: 30px;
   margin: 20px 0px;
+   opacity:.9;
 
 }
 
