@@ -72,7 +72,7 @@ main div.image
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 60%;
+  min-width: 50%;
 }
 main div.image img
 {
@@ -85,7 +85,7 @@ main div.image img
 div.details h2 
 {
   color: var(--White);
-  font-size: 44px;
+  font-size: 40px;
   font-weight: 600;
   font-family: var(--Heading-Font);
   line-height: 60px;
@@ -292,7 +292,7 @@ footer li img
 
   footer
   {
-    margin-top: 100px ;
+    margin-top: 50px ;
   }
 
  
