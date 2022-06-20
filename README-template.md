@@ -19,7 +19,7 @@ This is a solution to the [Huddle landing page with single introductory section 
 
 ### Screenshot
 <p align="center">
-<img src="https://user-images.githubusercontent.com/78083890/174648497-fdc976b8-89ef-4724-95d4-feda6dc0cdd8.png" width="460" height="400">
+<img src="https://user-images.githubusercontent.com/78083890/174648672-2d4c6ca5-e20b-434a-8254-2eaf18807d46.png" width="460" height="400">
 </p>
 
 ### Links
