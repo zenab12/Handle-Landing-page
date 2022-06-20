@@ -55,6 +55,11 @@
     color: var(--White);
   }
 
+  header  h1 img
+  {
+    width: 200px;
+  }
+
 
 main
 {
@@ -73,7 +78,7 @@ main div.image
   display: flex;
   justify-content: center;
   align-items: center;
-  min-width: 56%;
+  min-width: 55%;
 }
 main div.image img
 {
