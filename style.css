@@ -61,7 +61,7 @@ main
  flex-direction: row;
 justify-content: space-between;
 align-items: stretch;
-gap: 100px;
+gap: 75px;
 
 }
 
@@ -246,7 +246,7 @@ footer li img
 
   header  h1 img
   {
-    width: 350px;
+    width: 200px;
   }
 
   main 
